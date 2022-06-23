@@ -3,7 +3,7 @@ I am currently making prototypes to improve my everyday life
 
 If you would like to collab let me know
 
-If you want to ask me something <a href="https://github.com/DownRamp/ama">Press this</a>
+If you want to ask me something [https://github.com/DownRamp/ama](https://github.com/DownRamp/ama/blob/main/README.md)
 
 ## 🌐Socials
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC32xY3FUupnXwGbn64KOArQ) 
